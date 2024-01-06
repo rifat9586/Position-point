@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.maneDiv{
+    text-align: center;
+margin:20px auto;
+width: 900px;
+height: 600px;
+padding: 20px;
+border: 2px solid black;
+position: relative;
+}
+.div1{
+height: 200px;
+width: 200px;
+background-color: blueviolet;
+display: inline-block;
+}
+.div2{
+    height: 200px;
+    width
+    
+    : 200px;
+    background-color: rgb(212, 0, 255);
+    display: inline-block;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+.div3{
+    height: 200px;
+    width: 200px;
+    background-color: brown;
+    display: inline-block;
+    position: absolute;
+    top: 20px;
+    left: 20px
+    
+    ;
+}
+.div4{
+    height: 200px;
+    width: 200px;
+    background-color: cadetblue;
+    display: inline-block;
+}
